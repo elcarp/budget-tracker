@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/budget-tracker/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/budget-tracker/static/js/main.93fe1255.chunk.js",
+    "main.js.map": "/budget-tracker/static/js/main.93fe1255.chunk.js.map",
+    "runtime-main.js": "/budget-tracker/static/js/runtime-main.727f212a.js",
+    "runtime-main.js.map": "/budget-tracker/static/js/runtime-main.727f212a.js.map",
+    "static/js/2.0f622a28.chunk.js": "/budget-tracker/static/js/2.0f622a28.chunk.js",
+    "static/js/2.0f622a28.chunk.js.map": "/budget-tracker/static/js/2.0f622a28.chunk.js.map",
+    "static/js/3.0e8a9b45.chunk.js": "/budget-tracker/static/js/3.0e8a9b45.chunk.js",
+    "static/js/3.0e8a9b45.chunk.js.map": "/budget-tracker/static/js/3.0e8a9b45.chunk.js.map",
+    "index.html": "/budget-tracker/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/budget-tracker/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0f622a28.chunk.js.LICENSE.txt": "/budget-tracker/static/js/2.0f622a28.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/budget-tracker/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.727f212a.js",
+    "static/js/2.0f622a28.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.93fe1255.chunk.js"
+  ]
+}
